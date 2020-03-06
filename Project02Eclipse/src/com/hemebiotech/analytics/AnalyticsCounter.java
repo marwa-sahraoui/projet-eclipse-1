@@ -36,7 +36,6 @@ public class AnalyticsCounter {
 		//4. Ecrire le dictionnaire des symptomes et meurs occurrence dans un fichioer de sortie
 		
 		
-		
 		myReader.writeDictionaryFile(mySymptomsOccrrenceMap, "result.txt");
 	
 	}
